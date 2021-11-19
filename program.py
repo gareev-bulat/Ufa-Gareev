@@ -1,5 +1,6 @@
 def main():
-    print('gtrtrt5e')
+    print('gtrtrt5ef')
+    print('rtgetgt')
 
 
 if __name__ == '__main__':
